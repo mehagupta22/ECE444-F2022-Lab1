@@ -29,7 +29,7 @@ Screenshot of commit made by teammate to my repository:
 
 ## Activity-5
 
-This following screenshot shows the implementation of these steps:
+The following screenshot shows the implementation of these steps:
 
 1. Use command "git rebase develop" on the "rebase" branch to move commits 1 and 2 after commits 3 and 4
 2. Use command "git log" on the "rebase" branch to confirm that commits 1 and 2 are after commits 3 and 4
