@@ -9,3 +9,7 @@ Name: Meha Gupta
 ### Activity-2
 
 <img width="311" alt="image" src="https://user-images.githubusercontent.com/62436455/190685970-1b22775b-9577-45a2-82e4-ff3688acb46b.png">
+
+### Activity-3
+
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/62436455/190689014-20f6af73-207a-43e5-a598-05268021e833.png">
