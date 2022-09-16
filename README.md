@@ -1,4 +1,4 @@
-# ECE444 Lab-1 Submission
+## ECE444 Lab-1 Submission
 
 Name: Meha Gupta
 
