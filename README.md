@@ -13,3 +13,14 @@ Name: Meha Gupta
 ### Activity-3
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/62436455/190689014-20f6af73-207a-43e5-a598-05268021e833.png">
+
+### Activity-5
+
+This task was completed by following these steps:
+
+1. Use command "git rebase develop" on the "rebase" branch to move commits 1 and 2 after commits 3 and 4
+2. Use command "git log" on the "rebase" branch to confirm that commits 1 and 2 are after commits 3 and 4
+
+The above steps have been implemented in the screenshot below:
+
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/62436455/190699540-eaa36013-fcf8-46c7-941f-1f2e13b09a4f.png">
