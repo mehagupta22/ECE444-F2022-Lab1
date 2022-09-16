@@ -64,7 +64,7 @@ The following screenshot shows the addition of a new tab on the EP webpage:
 
 The following screenshot shows the implementation of these steps:
 
-1. Commit to branch "feature-add-a-tab" to add a new tab on EP webpage
+1. Commit to branch "feature-add-a-tab" to add new tab on EP webpage
 2. Switch to branch "develop"
 3. Rebase "develop" with "feature-add-a-tab" and verify using "git log"
 
