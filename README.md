@@ -28,3 +28,17 @@ The above steps have been implemented in the screenshot below:
 ### Activity-6
 
 https://github.com/mehagupta22/ECE444-F2022-EP
+
+### Activity-7
+
+The following screenshot shows the implementation of these steps:
+
+1. Commit to branch "feature-change-title" to modify title of EP webpage
+2. Switch to branch "develop"
+3. Rebase "develop" with "feature-change-title" and verify using "git log"
+
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/62436455/190707228-3c28265c-6d6c-41da-bd60-ba797a3e86f4.png">
+
+The following screenshot shows the modified title on the EP webpage:
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/62436455/190707538-0e586c38-ab65-4f65-919f-ebcd7690585d.png">
