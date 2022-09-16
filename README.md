@@ -55,3 +55,17 @@ The following screenshot shows the implementation of these steps:
 3. Rebase "develop" with "feature-change-title" and verify using "git log"
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/62436455/190707228-3c28265c-6d6c-41da-bd60-ba797a3e86f4.png">
+
+## Activity-8
+
+The following screenshot shows the addition of a new tab on the EP webpage:
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/62436455/190716232-ad9097a8-ee90-41ff-a2fe-df8af7c50962.png">
+
+The following screenshot shows the implementation of these steps:
+
+1. Commit to branch "feature-add-a-tab" to add a new tab on EP webpage
+2. Switch to branch "develop"
+3. Rebase "develop" with "feature-add-a-tab" and verify using "git log"
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/62436455/190716389-5c781df4-b0de-4823-8d1b-595ae9855b40.png">
