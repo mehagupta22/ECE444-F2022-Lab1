@@ -24,3 +24,7 @@ This task was completed by following these steps:
 The above steps have been implemented in the screenshot below:
 
 <img width="492" alt="image" src="https://user-images.githubusercontent.com/62436455/190699540-eaa36013-fcf8-46c7-941f-1f2e13b09a4f.png">
+
+### Activity-6
+
+https://github.com/mehagupta22/ECE444-F2022-EP
