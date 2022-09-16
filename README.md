@@ -14,6 +14,19 @@ Name: Meha Gupta
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/62436455/190689014-20f6af73-207a-43e5-a598-05268021e833.png">
 
+### Activity-4
+
+Teammate name: Valentina Manferrari
+Teammate github repo: https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering
+
+Screenshot of commit made by me to teammate's repository:
+
+<img width="939" alt="image" src="https://user-images.githubusercontent.com/62436455/190709797-5346978d-e376-41e0-a69a-dc508fb940d0.png">
+
+Screenshot of commit made by teammate to my repository:
+
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/62436455/190709628-66ba61c6-82c3-445f-982b-55800f132754.png">
+
 ### Activity-5
 
 This task was completed by following these steps:
