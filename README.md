@@ -54,4 +54,4 @@ The following screenshot shows the implementation of these steps:
 
 The following screenshot shows the modified title on the EP webpage:
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/62436455/190707538-0e586c38-ab65-4f65-919f-ebcd7690585d.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/62436455/190710512-c7c6305f-6f6c-4209-800c-5ab5b0f4631c.png">
