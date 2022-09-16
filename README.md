@@ -17,7 +17,7 @@ Name: Meha Gupta
 ## Activity-4
 
 Teammate Name: Valentina Manferrari <br />
-Teammate Github Repo: https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering
+Teammate Github Repo: https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering/tree/main/ECE444-F2022-Lab1
 
 Screenshot of commit made by me to teammate's repository:
 
