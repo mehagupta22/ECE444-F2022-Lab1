@@ -1,23 +1,23 @@
-## ECE444 Lab-1 Submission
+# ECE444 Lab-1 Submission
 
 Name: Meha Gupta
 
-### Activity-1
+## Activity-1
 
 <img width="927" alt="image" src="https://user-images.githubusercontent.com/62436455/190684099-8a72f930-5daf-417e-81ce-1b77b9bd6f39.png">
 
-### Activity-2
+## Activity-2
 
 <img width="311" alt="image" src="https://user-images.githubusercontent.com/62436455/190685970-1b22775b-9577-45a2-82e4-ff3688acb46b.png">
 
-### Activity-3
+## Activity-3
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/62436455/190689014-20f6af73-207a-43e5-a598-05268021e833.png">
 
-### Activity-4
+## Activity-4
 
-Teammate name: Valentina Manferrari
-Teammate github repo: https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering
+Teammate Name: Valentina Manferrari <br />
+Teammate Github Repo: https://github.com/ValentinaManferrari/ECE444-SoftwareEngineering
 
 Screenshot of commit made by me to teammate's repository:
 
@@ -27,7 +27,7 @@ Screenshot of commit made by teammate to my repository:
 
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/62436455/190709628-66ba61c6-82c3-445f-982b-55800f132754.png">
 
-### Activity-5
+## Activity-5
 
 This task was completed by following these steps:
 
@@ -38,11 +38,11 @@ The above steps have been implemented in the screenshot below:
 
 <img width="492" alt="image" src="https://user-images.githubusercontent.com/62436455/190699540-eaa36013-fcf8-46c7-941f-1f2e13b09a4f.png">
 
-### Activity-6
+## Activity-6
 
 https://github.com/mehagupta22/ECE444-F2022-EP
 
-### Activity-7
+## Activity-7
 
 The following screenshot shows the implementation of these steps:
 
