@@ -1,6 +1,6 @@
-# Lab-1 Submission
+# ECE444 Lab-1 Submission
 
-Meha Gupta
+Name: Meha Gupta
 
 ### Activity-1
 
