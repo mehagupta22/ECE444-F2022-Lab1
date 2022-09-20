@@ -31,10 +31,10 @@ Screenshot of commit made by teammate to my repository:
 
 The following screenshot shows the implementation of these steps:
 
-1. Use command "git rebase develop" on the "rebase" branch to move commits 1 and 2 after commits 3 and 4
-2. Use command "git log" on the "rebase" branch to confirm that commits 1 and 2 are after commits 3 and 4
+1. Use command "git rebase develop" on the "rebase" branch and command "git rebase rebase" on the "develop" branch to move commits c1 and c2 after commits c3 and c4
+2. Use command "git log" on the "develop" branch to confirm that commits 1 and 2 are after commits 3 and 4
 
-<img width="492" alt="image" src="https://user-images.githubusercontent.com/62436455/190699540-eaa36013-fcf8-46c7-941f-1f2e13b09a4f.png">
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/62436455/191149720-fac31f08-3210-4dce-8bce-537f19c0e881.png">
 
 ## Activity-6
 
